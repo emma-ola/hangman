@@ -17,7 +17,6 @@ lives = 6
 # Display the HangMan Logo
 print(logo)
 
-
 # Store the length of the chosen word in a variable to re-use it
 len_of_chosen_word = len(chosen_word)
 
